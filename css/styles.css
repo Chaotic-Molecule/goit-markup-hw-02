@@ -102,6 +102,10 @@ color: #2e2f42;
     color: #434455;
 }
 
+.team {
+    background-color: #F4F4FD;
+}
+
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -127,7 +131,7 @@ color: #2e2f42;
     color: #434455;
 }
 
-.team-list {
+.team-list.item {
     background-color: #FFFFFF;
 }
 
@@ -138,8 +142,8 @@ color: #2e2f42;
 
 .portfolio-title {
 font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
+font-size: 36px;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;
