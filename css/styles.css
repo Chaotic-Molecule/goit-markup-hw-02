@@ -35,6 +35,10 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
+.header-list-item:hover, .header-list-item:focus {
+    color: #404bbf;
+}
+
 .header-span {
     color: #2e2f42;
 }
@@ -69,7 +73,6 @@ color: #2e2f42;
 
 .hero-btn {
     border-radius: 4px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
